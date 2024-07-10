@@ -73,17 +73,6 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-# Navigate
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "https://new-url.com"
-  - title: "Contact"
-    url: "/contact/"
-  - title: "CV"
-    url: "https://jpkelley.github.io/bcl/cv"
-
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
