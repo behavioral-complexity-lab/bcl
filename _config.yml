@@ -12,7 +12,7 @@ title                    : # name
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://jpkelley.github.io/bcl/
+url                      : https://jpkelley.github.io
 baseurl                  : "/bcl"
 repository               : "jpkelley.github.io/bcl"
 
