@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "home"
-    url: /    
+    url: "https://jpkelley.github.io/bcl/"   
 
   - title: "people"
     url: /people/    
