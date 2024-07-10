@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : # name
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Behavioral Complexity Lab"
 description              : &description "personal description"
 url                      : https://jpkelley.github.io
 baseurl                  : "/bcl"
