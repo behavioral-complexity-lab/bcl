@@ -1,64 +1,33 @@
 ---
 layout: archive
-title: "CV"
+title: "Abbreviated CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Animal Behavior (2012; University of California, Davis) [advisor: John C. Wingfield]
+* A.B. Biology (2001; Harvard University)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 2018-present: Assistant Research Scientist (Fixed-Term); University of Wyoming
+    * Principal Investigator: Behavioral Complecity Lab, Panama PLUMAS, Hawaii VINE Project
+* 2012-2018: Postdoctoral Fellowships
+    * University of California-Berkeley (jumping spiders)
+    * University of British Columbia (tropical birds)
+    * Florida State University (tropical birds)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Introductory Biology (LIFE1010): odd-numbered years, Fall term
+* Behavioral Evology (ZOO4415): even-numbered years, Fall term
+* Quantitative Anaysis of Field Data (ECOL5500): Fall term
+* Data Science Deep Dive: January term
+* Calling Bullshit in our Data-driven world: 2019-2023
+* WyoPanama field course: January term (2019-2023)
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
