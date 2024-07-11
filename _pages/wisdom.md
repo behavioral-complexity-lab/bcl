@@ -7,6 +7,8 @@ redirect_from:
   - /wisdom
 ---
 
+Here is a collection of data-related quotes for your enjoyment!
+
 * _“Without data, you’re just another person with an opinion.”_ – Edwards Deming
 * _“Data that is loved tends to survive.”_ – Kurt Bollacker
 * _“You can have data without information, but you cannot have information without data.”_ – Daniel Keys Moran, science fiction writer
