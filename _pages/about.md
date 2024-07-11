@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Behavioral Complexity Lab / Department of Zoology and Physiology at University of Wyoming)"
+title: # Name
 author_profile: true
 redirect_from: 
   - /about/
