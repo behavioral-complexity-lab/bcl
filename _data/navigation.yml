@@ -2,9 +2,6 @@
 main:
   - title: "home"
     url: "https://jpkelley.github.io/bcl/about"
-     
-  - title: "people"
-    url: "https://jpkelley.github.io/bcl/people"
 
   - title: "projects"
     url: "https://jpkelley.github.io/bcl/projects"  
