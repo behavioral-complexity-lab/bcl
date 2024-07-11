@@ -1,3 +1,12 @@
+---
+permalink: /
+title: # Name
+author_profile: true
+redirect_from: 
+  - /people/
+  - /people.html
+---
+
 ### Erin Stewart (MS student)
 <img align="right" width="30%" src="assets/stewart.jpg">
 
