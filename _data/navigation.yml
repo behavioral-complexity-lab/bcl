@@ -3,9 +3,6 @@ main:
   - title: "home"
     url: "https://jpkelley.github.io/bcl/"   
 
-  - title: "people"
-    url: /people/    
-
   - title: "projects"
     url: /projects/    
     
