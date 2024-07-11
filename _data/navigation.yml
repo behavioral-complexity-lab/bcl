@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "home"
-    url: "https://jpkelley.github.io/bcl/"   
- 
+    url: "https://jpkelley.github.io/bcl/"
+     
   - title: "people"
-    url: /people/
+    url: "https://jpkelley.github.io/bcl/people"
 
   - title: "projects"
-    url: /projects/    
+    url: "https://jpkelley.github.io/bcl/projects"  
     
   - title: "publications"
-    url: /publications/
+    url: "https://jpkelley.github.io/bcl/publications"
         
   - title: "funding"
-    url: /funding/
+    url: "https://jpkelley.github.io/bcl/funding"
 
   - title: "wisdom?"
-    url: /wisdom/
+    url:"https://jpkelley.github.io/bcl/wisdom"
