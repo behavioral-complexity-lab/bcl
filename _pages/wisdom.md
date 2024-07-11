@@ -1,3 +1,4 @@
+### Pithy Data Aphorisms
 _“Without data, you’re just another person with an opinion.”_ – Edwards Deming
 
 _“Data that is loved tends to survive.”_ – Kurt Bollacker
