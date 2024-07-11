@@ -1,5 +1,6 @@
-_“Without data, you’re just another person with an opinion .” – Edwards Deming
-_“Data that is loved tends to survive.” – Kurt Bollacker
+*“Without data, you’re just another person with an opinion .” – Edwards Deming
+
+*“Data that is loved tends to survive.” – Kurt Bollacker
 _“You can have data without information, but you cannot have information without data.” – Daniel Keys Moran, science fiction writer
 _“Data matures like wine, applications like fish.” – James Governor
 _“There’s a strand of the data viz world that argues that everything could be a bar chart. That’s possibly true but also possibly a world without joy.” – Amanda Cox
