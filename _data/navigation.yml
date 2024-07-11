@@ -4,13 +4,13 @@ main:
     url: "https://jpkelley.github.io/bcl/about"
 
   - title: "projects"
-    url: "https://jpkelley.github.io/bcl/projects"  
+    url: "/projects/"  
     
   - title: "publications"
-    url: "https://jpkelley.github.io/bcl/publications"
+    url: "/publications/"
         
   - title: "funding"
-    url: "https://jpkelley.github.io/bcl/funding"
+    url: "/funding/"
 
   - title: "wisdom?"
-    url:"https://jpkelley.github.io/bcl/wisdom"
+    url: "/wisdom/"
