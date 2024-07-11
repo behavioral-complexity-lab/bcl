@@ -1,5 +1,5 @@
 ### Erin Stewart (MS student)
-<img align="right" width="100" height="100" src="assets/stewart.jpg">
+<img align="right" width="30%" src="assets/stewart.jpg">
 
 Erin is a graduate student at the University of Wyoming pursuing a master’s degree in Zoology & Physiology. Erin’s primary research interests include animal behavior and communication, ornithology, and conservation biology, and her thesis work will be conducted as part of the Panama PLUMAS Project. Prior to attending UW, Erin obtained a B.S. in Biology from the University of Puget Sound, during which she completed an undergraduate thesis on the effects of wildfire and beaver dams on stream macroinvertebrates. Subsequently, she worked as a field technician in Idaho, California, Georgia, and Florida studying Ridgway’s Rails, Greater Sage-Grouse, Ruffed Grouse, and plant demography. In addition, she is very interested in science communication and journalism, and has contributed to science magazines and blogs. When not working, she likes playing board games such as Wingspan, and, when not working AND not thinking about birds, she enjoys hiking, baking, reading travel memoirs and murder mysteries, and watching tiny house tours.
 
