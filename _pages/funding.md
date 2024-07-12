@@ -1,4 +1,11 @@
-
+---
+permalink: /
+title: # Name
+author_profile: true
+redirect_from: 
+  - /funding/
+  - /funding.html
+---
 
 The PI and the Lab have received research funding from the following organizations and institutions:
 
