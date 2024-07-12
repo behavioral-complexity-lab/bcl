@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Some guiding words..."
 permalink: /wisdom/
 author_profile: true
 redirect_from:
