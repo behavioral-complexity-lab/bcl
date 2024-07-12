@@ -7,6 +7,8 @@ redirect_from:
   - /funding.html
 ---
 
+### Funding
+
 The PI and the Lab have received research funding from the following organizations and institutions:
 
 * National Science Foundation
