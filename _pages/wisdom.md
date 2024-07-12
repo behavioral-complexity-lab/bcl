@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 ### On the topic of Bullshit (having taught a course on the matter)
-<p class="callout info">Bullshit Asymmetry Principle (Brandolini’s Law): _"The amount of energy and time needed to refute bullshit is an order of magnitude greater than that needed to produce it."_</p>
-
+* Bullshit Asymmetry Principle (Brandolini’s Law): _"The amount of energy and time needed to refute bullshit is an order of magnitude greater than that needed to produce it."_
 * Don't peddle bullshit.
 * Lessen your receptivity to Bullshit.
 * Adage: "You can't bullshit a bullshitter."
@@ -19,7 +18,6 @@ redirect_from:
 
 ### Pithy data aphorisms
 Here is a collection of data-related quotes for your enjoyment!
-
 * _“Without data, you’re just another person with an opinion.”_ – Edwards Deming
 * _“Data that is loved tends to survive.”_ – Kurt Bollacker
 * _“You can have data without information, but you cannot have information without data.”_ – Daniel Keys Moran, science fiction writer
