@@ -9,8 +9,8 @@ redirect_from:
 
 ### On the topic of Bullshit (having taught a course on the matter)
 * Remember the Bullshit Asymmetry Principle (Brandolini’s Law): _"The amount of energy and time needed to refute bullshit is an order of magnitude greater than that needed to produce it."_
-* Don't peddle bullshit.
-* Lessen your receptivity to Bullshit.
+* Don't peddle bullshit. If you’re trying to intentionally mislead, you’ve missed some important lessons in life. 
+* Actively lessen your receptivity to Bullshit. Read multiple news sources, check references, be actively skeptical.
 * Adage: "You can't bullshit a bullshitter."
 * Argumentative fallacies the vehicles of Bullshit; learn how to recognize them.
 * Learn [how to refute Bullshit]([https://link-url-here.org](https://modelthinkers.com/mental-model/bullshit-asymmetry-principle))
