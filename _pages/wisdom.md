@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Pithy data aphorisms"
+title: # Name
 permalink: /wisdom/
 author_profile: true
 redirect_from:
   - /wisdom
 ---
 
+### Pithy data aphorisms
 Here is a collection of data-related quotes for your enjoyment!
 
 * _“Without data, you’re just another person with an opinion.”_ – Edwards Deming
