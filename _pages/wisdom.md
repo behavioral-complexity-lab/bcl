@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: # Name
+title: ""
 permalink: /wisdom/
 author_profile: true
 redirect_from:
