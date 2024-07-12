@@ -7,7 +7,10 @@ redirect_from:
   - /people
 ---
 ### Erin Stewart (MS student)
-<img style="float: right;" width="30%" src="images/stewart.jpg">
+<img src="assets/stewart.jpg" alt="Erin Stewart" align="right" width="30%">
+
+This is some sample text that will wrap around the image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque commodo massa sed ipsum porttitor facilisis. Integer suscipit mollis arcu, vel bibendum erat suscipit in. Sed non eros at lectus tempor pellentesque. Duis non risus magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur vehicula bibendum sollicitudin. Nunc scelerisque viverra nisi ut fringilla. Aliquam erat volutpat. Etiam auctor metus at orci fermentum, id malesuada libero vestibulum.
+
 Erin is a graduate student at the University of Wyoming pursuing a master’s degree in Zoology & Physiology. Erin’s primary research interests include animal behavior and communication, ornithology, and conservation biology, and her thesis work explores correlates of vocal skill and performance in _Poliocrania exsul_ (chestnut-backed antbird) in central Panama. Prior to attending UW, Erin obtained a B.S. in Biology from the University of Puget Sound, during which she completed an undergraduate thesis on the effects of wildfire and beaver dams on stream macroinvertebrates. Subsequently, she worked as a field technician in Idaho, California, Georgia, and Florida studying Ridgway’s Rails, Greater Sage-Grouse, Ruffed Grouse, and plant demography. In addition, she is very interested in science communication and journalism, and has contributed to science magazines and blogs. When not working, she likes playing board games such as Wingspan, and, when not working _and_ not thinking about birds, she enjoys hiking, baking, reading travel memoirs and murder mysteries, and watching tiny house tours. 
 
 ### Michael Castaño (MS student)
