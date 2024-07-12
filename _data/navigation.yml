@@ -2,9 +2,12 @@
 main:
   - title: "home"
     url: "https://jpkelley.github.io/bcl/"
-
+    
   - title: "projects"
     url: /projects/
+    
+  - title: "people"
+    url: /people/
     
   - title: "publications"
     url: "/publications/"
