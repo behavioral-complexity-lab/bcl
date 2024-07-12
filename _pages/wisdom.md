@@ -7,6 +7,20 @@ redirect_from:
   - /wisdom
 ---
 
+### [The 10 Commandments of Science](https://www.aaas.org/taxonomy/term/9/ten-commandments-scientists)
+by Jeff Colombe
+
+* Thou shalt become a learned expert, through a critical evaluation of the literature, principled experiment and observation, and inquiry-driven conversations with others.
+* Thou shalt at all times apply intellectual honesty, giving physical evidence its full due weight, and neither falsify thy results or conclusions, nor overlook dishonest efforts on the part of others.
+* Thou shalt communicate thine honest vision of what is true to the public, through scholarly publication, teaching, community outreach, and public service.
+* Thou shalt not worship effigies, including specious arguments, logical fallacies, unneeded jargon, obfuscation, unwarranted self-promotion, or any other vehicle designed solely to advance thy career that does not seek truthful and accessible inquiry into the nature of things.
+* Thou shalt seek parsimonious theories that minimize their out-of-sample prediction error on novel or left-out data.
+* Thou shalt seek logical consistency, and not suffer undue contradictions in your evaluation of theories.
+* Thou shalt not indulge in moral or cultural relativism...knowledge is knowledge, regardless of who participates in its evaluation.
+* Thou shalt make every effort to comprehend the context-sensitivity of knowledge, which may serve to reveal the greater generalizations that interact and pertain across contexts.
+* Thou shalt know that direct experience is a first-person phenomenon, but that science seeks to evaluate such experiences in ways that are shared, testable, and falsifiable from a third-person perspective.
+* Thou mayest come to understand that thine own self and all sentient creatures are capable of well-being and suffering, and that principled action with a knowledge of causes may benefit thyself and others.
+
 ### On the topic of Bullshit (having taught a course on the matter)
 * Remember the Bullshit Asymmetry Principle (Brandolini’s Law): _"The amount of energy and time needed to refute bullshit is an order of magnitude greater than that needed to produce it."_
 * Don't peddle bullshit. If you’re trying to intentionally mislead, you’ve missed some important lessons in life. 
