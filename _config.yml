@@ -21,7 +21,7 @@ repository               : "jpkelley.github.io/bcl"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "_pages/assets/toucan.jpeg"
+  avatar           : "toucan.jpeg"
   name             : "Behavioral Complexity Lab"
   pronouns         : # example: "she/her"  
   bio              : "Behavioral Ecology and Beyond"
