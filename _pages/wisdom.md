@@ -7,8 +7,8 @@ redirect_from:
   - /wisdom
 ---
 
-### [The 10 Commandments of Science](https://www.aaas.org/taxonomy/term/9/ten-commandments-scientists)
-by Jeff Colombe
+### The 10 Commandments of Science
+[Article](https://www.aaas.org/taxonomy/term/9/ten-commandments-scientists) by Jeff Colombe
 
 * Thou shalt become a learned expert, through a critical evaluation of the literature, principled experiment and observation, and inquiry-driven conversations with others.
 * Thou shalt at all times apply intellectual honesty, giving physical evidence its full due weight, and neither falsify thy results or conclusions, nor overlook dishonest efforts on the part of others.
