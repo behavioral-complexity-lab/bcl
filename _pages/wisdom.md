@@ -24,11 +24,11 @@ redirect_from:
 ### On the topic of Bullshit (having taught a course on the matter)
 * Remember the Bullshit Asymmetry Principle (Brandolini’s Law): _"The amount of energy and time needed to refute bullshit is an order of magnitude greater than that needed to produce it."_
 * Don't peddle bullshit. If you’re trying to intentionally mislead, you’ve missed some important lessons in life. 
-* Actively lessen your receptivity to Bullshit. Read multiple news sources, check references, be actively skeptical.
+* Actively lessen your receptivity to Bullshit. Read multiple news sources; check references; be actively skeptical.
 * Adage: "You can't bullshit a bullshitter."
-* Argumentative fallacies the vehicles of Bullshit; learn how to recognize them.
+* Argumentative fallacies are the vehicles of Bullshit; learn how to recognize them.
 * Learn [how to refute Bullshit]([https://link-url-here.org](https://modelthinkers.com/mental-model/bullshit-asymmetry-principle))
-
+* Don't be afraid to politely and civilly call Bullshit on someone's argument, but never engage in _ad hominem_ attacks. And be willing and able to walk away from an argument. But don't say "Let's agree to disagree." That could be construed as Bullshit. 
 
 ### Pithy data aphorisms
 Here is a collection of data-related quotes for your enjoyment!
