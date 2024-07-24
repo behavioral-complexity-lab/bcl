@@ -1,0 +1,88 @@
+##  Panama PLUMAS
+The Panama PLUMAS (Precipitation and Land-Use in Multiple Avian Species) Project studies bird communities inhabiting 24 forest plot across the Isthmus of Panama to assess the concurrent, interactive effects of habitat configuration (e.g. degree of fragmentation, fragment size) and precipitation. Sites exhibit maximum variation in rainfall and fragment size while allowing good ecological replication; sites include two replicate forest tracts from each unique combination of three size categories (6-40ha, 70-120ha, >500ha) and three rainfall bands (1800-2100mm, 2200-2600mm, 3000-3300mm), with six additional small forest tracts. Fragment sizes were selected because [1] meta-analyses show that ~100ha fragment may be sufficient—and <50ha insufficient—to maintain ecosystem functioning, and [2] >500ha is larger than the maximum dispersal distance for many understory birds. Co-founded and co-developed with Dr. Corey Tarwater, we are examining these impacts on community structuring, population demography, morphology (beaks, nests, etc.) and behavior (foraging competition, antipredatory behavior). We have several projects that we are exploring across the Isthmus of Panama:
+
+Bite-force variation across precipitation and fragmentation gradients
+(Top) BCL Principal Investigator Dr. Patrick Kelley measures the bite-force of a white-whiskered puffbird (Malacoptila panamensis) in March 2020. (Bottom) Close-up of the 3D-printed bite-force device; it is fitted to a Fluke 28 II True-RMS Rugged IP 67 Industrial Digital Multimeter.
+
+Work currently being prepared for submission suggests variation in bill morphology across the precipitation gradient, a pattern that is likely linked to availability of certain types of insect prey. Naturally, we next wanted to explore if beaks exhibit concurrent variation in bite performance, which may aid individuals as they capture and process prey items.
+
+In 2020, just prior to having to leave Panama due to the COVID pandemic, we initiated a bite-force project to build a preliminary dataset to be used in grant applications. The Behavioral Complexity Lab used 3D printing–in conjunction with a simple resistance meter–to design a bite-force transducer capable of measuring the bite-force of different bird species in the field. This highly portable system was very successful, and we are now in the process of redesigning the device to enable rapid field calibration prior to measurement. The Behavioral Complexity Lab now has an operational Prusa Mini 3D printer in the lab for rapid prototyping.
+Map of Barro Colorado Island (Panama), the locations where black-crowned antshrikes were sampled, and its ecological variation (forest age and slope)
+
+Variation in acoustic communication across environmental gradients
+
+Dr. Kelley has over 20 years’ experience with bioacoustic analysis (stingless bees, three species of monkey, many bird species). Current work in the Behavioral Complexity Lab focuses on understanding bioacoustic signals of tropical birds. We are currently preparing work for publication on adult ontogeny of call structure in suboscine birds. And, we have conducted several experiments examining the salience of syllable rate in birds in Panama and in the Galapagos. Using a large-scale song survey on Barro Colorado Island, Panama, the Behavioral Complexity Lab has found that–in additional to other effects–distance to island
+edge best predicted song structure in a suboscine bird; this is being prepared for publication. We have conducted additional playback experiments to test various hypotheses (e.g. the numerical odds hypothesis) about how territories are effectively defended. This is a research area that we are now actively focusing on, given (1) how important acoustic communication is in dense habitats like tropical forests, and (2) that many experiments can be done in a short period of time.
+
+News!
+
+[10-Dec-2022] We have just gotten word that the Panama PLUMAS Project has received full funding ($763,000) from the United States National Science Foundation! Please consider joining our field team (as a PhD student or field technician)!
+
+
+
+
+
+##  Deep Tropics and ecoAI
+Funded by University of Wyoming (Faculty seed grant) and Microsoft, the DeepTropics Project leverages a long-standing interest (and work) in bioacoustics (and large amount of amassed data) to understand more about [1] behavioral complexity in hyperspeciose tropical environments, [2] the structuring of tropical communities, and [3] the effects of habitat disturbance on individuals, populations, and communities. The DeepTropics Project (a component of ecoAI) combines remote acoustic monitoring and deep-learning to document avian mixed-species foraging aggregations (MSFA)–specifically, antwren foraging flocks–along environmental gradients in central, lowland Panama. The project has four phases:
+
+    Test the efficacy of artificial intelligence (AI) algorithms to detect avian sound in noisy, hyperspeciose environments (tropical forests). Former University of Wyoming undergraduate Thaddeus Lipke did some preliminary work on this front, using ~65k songs and calls from birds in Panama. 
+    Test the efficacy of AI to recognize species, count individuals, and construct interaction networks. Michael Castaño (University of Antioquia, Colombia) has produced an amazing dataset on antwren flocks that will be used to test this project component. 
+    Evaluate the ecological factors impacting efficacy of deep-learning models, a novel approach made possible only by the large number of study plots established by our previous work in Panama
+    Use AI algorithms to estimate variation in avian networks. 
+
+One of 43 AudioMoth recorders to be deployed in Spring 2022 in one of 21 forest plots in central Panama.
+
+This funded work helps establish an infrastructure in the Behavioral Complexity Lab for rapidly collecting and analyzing a wide variety of ecologically relevant data (from environmental noise to biodiversity to animal behavior) using bioacoustic tools. Future work includes:
+
+    Developing AI-based bioacoustic tools to rapidly detect rare or transient species in tropical environments, potentially aiding in conservation efforts. The ultimate goal is to create a wireless mesh network of acoustic sensors (with on-board AI processing ability) that will collect data in inaccessible habitats.
+    Determining the factors influencing breeding phenology of birds. To date, little is known (except from a few species) about what factors drive breeding phenology in the tropics. Deployment of recorders at 24 study plots for testing of broad-scale hypotheses about breeding phenology.
+    Quantify variation in anthropogenic noise and its impact on animal behavior. Do animals vocalize or move differently in noisy (i.e. more disturbed) environments?
+
+## Hawii VINE
+Since 2014, the Hawaii VINE (Vertebrate Introductions in Novel Ecosytems) Project has been exploring how native ecosystems on in Hawaii have been impacted by numerous introductions of bird and rat species, which have replaced the declining native birds as the primary dispersers of native plants. Specifically, this work explores how bird and rat behavioral variation (movement, predator avoidance, and competitive interactions) acts as selective drivers of variation in seed dispersal and recruitment across ecological gradients in Hawaii. In papers published in Science and Proceedings of the National Academy of Sciences, we have explored how species roles (i.e. generalist, specialist) impact network robustness at multiple spatial and temporal scales. Understanding the importance of specific species roles will help land managers in Hawaii make decisions about out-planting schedules and invasive plant control.
+
+Funded work in the Behavioral Complexity Lab is examining how fruit coloration is perceived by birds in different invaded landscapes and how this impacts seed dispersal effectiveness. We are taking a generalized approach to this endeavor by approaching coloration of different fruits as competing information sources that provide mutual information to avian foragers.
+
+This project has employed dozens of field technicians and several graduate students and has provided infrastructure for hundreds of hours of outreach in Hawaii. 
+
+
+## Bird-window collision
+The Bird Window Collision Project is being run by the Behavioral Complexity Lab in the Department of Zoology & Physiology, in coordination with University of Wyoming Museum of Vertebrates. This Project aims to (1) quantify and reduce bird mortality impact due to window strikes on the University of Wyoming campus, and (2) add to scientific knowledge of the impacts of buildings on wild animals.
+The BWCP conducts surveys of 54 facades on the University of Wyoming campus.
+
+We used the epicollect5 platform to design a data entry app for mobile phones. We soft-launched this project in May 2021, and we are currently working out the kinks with the app. We will be conducting building surveys periodically throughout the winter season, and we will be recruiting people on the University of Wyoming campus to help with Spring surveys starting in February. If you are interested in spending about 30-minutes per week going for a walk and searching for dead birds, please contact Dr. Patrick Kelley (jkelle24 “at” uwyo.edu. Currently, this project is being developed with assistance from University of Wyoming undergraduate Makayla Loveland.
+Imprint of dove on window of BioSci building on UWyo campus (28-Jan-2022; photo by Patrick Kelley)
+
+## Beh. Complexity
+
+
+Information content of signals and cues
+
+To understand the complex links between behavior, physiology, and ecology, it is critical that the behavioral code be deciphered using appropriate statistical tools. Behavioral and physiological responses are often highly complex, comprising multiple components, which vary among individuals and among contexts. A primary goal of the Behavioral Complexity Lab is to quantify complex behaviors and physiological patterns and illuminate cryptic biological phenomena that may have impacts on populations. To this end, we employ field experiments, fine-scale time series approaches, and information theory to decipher complexities of animal communication, components of which are linked to individual fitness. Past and current projects include:
+song wren (Cyphorhinus phaeocephalus)
+
+    Detection of neighbor-stranger recognition using complex interaction networks. We show that researchers’ ability to detect simple behavioral phenomena is improved when behavioral networks are considered. These results suggest that local response networks are critical, yet underappreciated, components of environmental context and that they may drive interpretation of many experimental playback studies (in preparation for Animal Behaviour).
+    Context-dependent information transfer in birds. In collaboration with Santiago Escobar (former field assistant), we used song wrens (Cyphorhinus phaeocephalus) and fine-scale time series analysis to show that information transfer (bit-rate) was maximized during simulated intrusions by unfamiliar individuals. This pattern was undetectable using data grouped into pre-stimulus and stimulus time blocks (in preparation for Animal Behaviour).
+    Quantification of signal display complexity. With Carla Vanderbilt and Emily DuVal, we developed an entropy-based quantification of complexity of coordinated male-male courtship displays of lance-tailed manakins (Chiroxiphia lanceolata) (Vanderbilt et al. 2015), providing a basis for understanding the impact of coordinated male-male displays on differential reproductive success. In as yet unpublished work, we used a similar entropy framework to quantify complexity of male multi-modal courtship (vibratory and visual) displays in 46 species of jumping spiders (Habronattus spp.) to test hypotheses about the origin of multi-modal signals. 
+    Eavesdropping and community structuring in army ant following birds. In collaboration with Henry Pollock, Ari Martinez, and Corey Tarwater, we have explored how social information in army ant-following birds impacts structuring of mixed-species foraging aggregations. We have found that eavesdropping (exploitation of acoustic cues) is not only a learned behavior but is also asymmetric between species in the community; that is, there is a distinct social information cascade whereby species respond only to particular species. This work is currently being expanded to explore these phenomena as a function of community composition at differe sites across the Isthmus of Panama.
+
+
+
+
+## Pred driven behavior in tropical birds
+
+
+How does extreme predation risk impact antipredator behavior in birds?
+
+Variation in predation risk can drive plastic and evolved behaviors and physiology. This can impact predator-prey dynamics, population persistence, and evolutionary trajectories. However, little is known about how predator-driven natural selection in recently-diverged populations acts along ecological gradients, despite such an approach’s potential for illuminating the impacts of predation. 
+Artificial bird models used for manipulation of proximate predation risk at nests of two species of understory birds. More work using these model will be underway in 2022 in Panama.
+
+The Behavioral Complexity Lab is continuing work on predator-driven behavior of tropical understory birds. After a short hiatus to focus on the Hawaii VINE Project, we are jump-starting work that takes advantage of (1) a “natural” experiment created during the creation of the Panama Canal when Barro Colorado Island (BCI) was isolated from the mainland, and (2) a set of 21 forest plots across the Isthmus of Panama. Our foundational work using meta-analysis spanning 80 years of data has detected divergent age-specific selection between island and mainland sites, with high adult and low nest survival on BCI compared to the mainland. Further work examined parental responses to age-specific mortality risk along the gradient by presenting models of adult/offspring predators at nests and found evidence of suppression of antipredator behavior, suggesting how low sensitivity of parents to predators may positively impact population persistence in predator-high environments.  The Behavioral Complexity Lab will be conducting additional, short experiments to examine how parents assess proximate predation risk in different environments. We are also continuing work on hormonal stress in response to proximate predation risk, an avenue of research that is sorely neededif we are to understand the mechanistic basis of antipredator responses in organisms with differing life-histories.
+Artificial eggs used to manipulate egg patterning. We also manipulated, using a factorial design, the moss on each nest.
+
+What is the impact of behavior on patterns of predator-driven natural selection? 
+
+Because current phenotypic variation is often already constrained by natural selection, it is difficult to understand how natural selection acts on phenotypes that may fall outside of the current trait distribution. This prevents understanding as to how selection may act on novel trait values. In unpiiblished work, we explored how selection operates on avian nest phenotypes in Panama. We manipulated (outside of existing phenotypic space) two traits along a nest predation-risk gradient in Panama: egg color and nest decoration (moss added by the parents) and discovered evidence of correlational selection–or selection acting on combinations of traits–acting on these traits. Selection on both decorative moss and egg maculation was similar at high and low nest predation sites. However, at the high predation site, natural nests were positioned at an adaptive optimum, despite their reduced apparent survival ( in preparation for Evolution), suggesting that parents are behaviorally responding to–and mitigating–strong selection by nest predators by adding moss to nests.
+Complex interactive effects of nest age and nesting date on nest survival. Part of a 19-year dataset from Emily DuVal.
+
+Currently, with collaborators, we are using two long-term data sets (10+ years) of tropical birds to investigate the shape of natural selection acting on nests (with Emily DuVal, in preparation; and with Corey Tarwater, in preparation). These studies will elucidate how the temporal dynamics of natural selection impact plastic responses by breeding individuals.
