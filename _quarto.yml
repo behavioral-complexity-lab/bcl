@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Behavioral Complexity Lab"
+  description: "Behavioral Ecology and Beyond"
+  site-url: https://behavioral.complexity-lab.github.io/bcl
+  repo-url: https://github.com/behavioral-complexity-lab.github.io/bcl
+  favicon: toucan.png
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Teaching
+        href: teaching/index.qmd
+      - text: Publications
+        href: publications/index.qmd
+      - text: Portfolio
+        href: portfolio/index.qmd
+      - text: Talks
+        href: talks/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+
+metadata-files: []
