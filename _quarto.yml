@@ -5,8 +5,8 @@ project:
 website:
   title: "Behavioral Complexity Lab"
   description: "Behavioral Ecology and Beyond"
-  site-url: https://behavioral.complexity-lab.github.io/bcl
-  repo-url: https://github.com/behavioral-complexity-lab.github.io/bcl
+  site-url: https://jpkelley.github.io/bcl
+  repo-url: https://github.com/jpkelley.github.io/bcl
   favicon: toucan.png
   navbar:
     right:
@@ -28,3 +28,4 @@ format:
     toc-depth: 3
 
 metadata-files: []
+
